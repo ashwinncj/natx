@@ -40,26 +40,41 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 font-weight: normal;
                 color: #666;
             }
-            .icon-img{
-                width:30px;
-                padding-top:5px;
-                transition:all 3s;
-                position:relative;
-            }
-            .icon-img:hover{
-                position: absolute;
-                top: 30px;          
-            }
+            /*            .icon-img{
+                            width:30px;
+                            padding-top:5px;
+                            transition:all 3s;
+                            position:relative;
+                        }
+                        .icon-img:hover{
+                            position: absolute;
+                            top: 30px;          
+                        }
+            */            
             .tile-icons li{
                 display:inline;
                 padding:2px;
-                position:relative;
                 transition:all 2s;
             }
-/*            .tile-icons li:hover{
-                position: fixed;
-                bottom: 30px;
-            }*/
+            .icon-img{ 
+                width:30px;
+                padding-top:5px;
+                position: relative;
+                top: 0;
+                transition:all 1s;
+                transition-property: top;
+                transition-duration:1s;
+                transition-timing-function: ease;
+                transition-delay: 1s; 
+            }
+            .icon-img:hover{
+                top: 600px;
+                color: #009966;
+            }
+            /*            .tile-icons li:hover{
+                            position: fixed;
+                            bottom: 30px;
+                        }*/
         </style>
     </head>
     <body>
