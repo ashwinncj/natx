@@ -61,13 +61,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 padding-top:5px;
                 position: relative;
                 top: 0;
-                transition:all 1s;
-                transition-property: top;
-                transition-duration:1s;
+                transition:all 700ms;
+                transition-property: top, width;
+                transition-duration:700ms;
                 transition-timing-function: ease;
-                transition-delay: 1s; 
+                transition-delay: 0.5s; 
             }
             .icon-img:hover{
+                width:35px;
                 top: 600px;
                 color: #009966;
             }
