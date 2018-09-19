@@ -5,9 +5,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <link href="<?php echo base_url('assets/css/owl.theme.default.min.css'); ?>" rel="stylesheet" type="text/css"/>
 <link href="<?php echo base_url('assets/css/owl.carousel.min.css'); ?>" rel="stylesheet" type="text/css"/>
 <style>
-    .topbg-image{
-        height:500px;
-        width:100%;
+    .topslider-image{
+        height:300px;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -23,12 +22,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="item" style="">
         <div class="col-md-12" style="background-color: rgba(0,0,0,0.5)">
             <div class="col-md-4" style="text-align: right;padding: 10px;">
-                <p style="color:white">veritatis et quasi architecto beatae</p>
-                <h3 style="color:white">dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</h3>
-                <p style="color:white">et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga</p>
+                <p style="color:white">Wildlife - cats</p>
+                <h3 style="color:white">Tiger</h3>
+                <p style="color:white">Experience the majestic tigers of India in different settings from North, West, East, South and Central India. As their population increases and wildlife tourism gets better, no better time than now to visit India for the Royal Bengal Tiger!</p>
                 <button class="topslider-button">KNOW MORE</button>
             </div>
-            <div class="col-md-8" style="background-image: url('<?php echo base_url('assets/img/TigerNATX1.jpg'); ?>');height:300px;background-position:center;background-size:cover;background-repeat:no-repeat;;">    
+            <div class="col-md-8 topslider-image" style="background-image: url('<?php echo base_url('assets/img/TigerNATX1.jpg'); ?>');">    
 
             </div>
         </div>
@@ -36,12 +35,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="item" style="">
         <div class="col-md-12" style="background-color: rgba(0,0,0,0.5)">
             <div class="col-md-4" style="text-align: right;padding: 10px;">
-                <p style="color:white">veritatis et quasi architecto beatae</p>
-                <h3 style="color:white">dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</h3>
-                <p style="color:white">et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga</p>
+                <p style="color:white">Wildlife - cats</p>
+                <h3 style="color:white">Tiger</h3>
+                <p style="color:white">Experience the majestic tigers of India in different settings from North, West, East, South and Central India. As their population increases and wildlife tourism gets better, no better time than now to visit India for the Royal Bengal Tiger!</p>
                 <button class="topslider-button">KNOW MORE</button>
             </div>
-            <div class="col-md-8" style="background-image: url('<?php echo base_url('assets/img/TigerNATX1.jpg'); ?>');height:300px;background-position:center;background-size:cover;background-repeat:no-repeat;;">    
+            <div class="col-md-8 topslider-image" style="background-image: url('<?php echo base_url('assets/img/TigerNATX1.jpg'); ?>');">    
 
             </div>
         </div>
@@ -49,12 +48,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="item" style="">
         <div class="col-md-12" style="background-color: rgba(0,0,0,0.5)">
             <div class="col-md-4" style="text-align: right;padding: 10px;">
-                <p style="color:white">veritatis et quasi architecto beatae</p>
-                <h3 style="color:white">dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</h3>
-                <p style="color:white">et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga</p>
+                <p style="color:white">Wildlife - cats</p>
+                <h3 style="color:white">Tiger</h3>
+                <p style="color:white">Experience the majestic tigers of India in different settings from North, West, East, South and Central India. As their population increases and wildlife tourism gets better, no better time than now to visit India for the Royal Bengal Tiger!</p>
                 <button class="topslider-button">KNOW MORE</button>
             </div>
-            <div class="col-md-8" style="background-image: url('<?php echo base_url('assets/img/TigerNATX1.jpg'); ?>');height:300px;background-position:center;background-size:cover;background-repeat:no-repeat;;">    
+            <div class="col-md-8 topslider-image" style="background-image: url('<?php echo base_url('assets/img/TigerNATX1.jpg'); ?>');">    
 
             </div>
         </div>
@@ -68,7 +67,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         nav: true,
         dots: false,
         autoplay: true,
-        autoplayTimeout: 2000,
+        autoplayTimeout: 3500,
         autoplayHoverPause: false
     });
 </script>
