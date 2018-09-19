@@ -65,50 +65,52 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     }
 </style>
 <title>NATX</title>
-<div id="page-layout">
-    <div class="col-md-3 tile-parent">
-        <div class="rotate tile">
-            <div class="front" style="background-color:rgba(48,50,49,1)">
-                <p class="title">Into the WILD</p>
-                <p class="description">Take a journey through the forest and look at the untamed.</p>
-                <p class="readmore">More</p>
+<div id="page-parent" style="background-image: url('<?php echo base_url('assets/img/MGL08175DsR9449.jpg'); ?>'); background-position:center;background-size:cover;">
+    <?php $this->load->view('topslider'); ?>
+    <div id="page-layout" style="">
+                <div class="col-md-3 tile-parent">
+            <div class="rotate tile">
+                <div class="front" style="background-color:rgba(48,50,49,1)">
+                    <p class="title">Into the WILD</p>
+                    <p class="description">Take a journey through the forest and look at the untamed.</p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/BTR05171DxMii6350.jpg'); ?>');">
+                </div>
             </div>
-            <div class="back" style="background-image: url('<?php echo base_url('assets/img/BTR05171DxMii6350.jpg'); ?>');">
+        </div>
+        <div class="col-md-3 tile-parent">
+            <div class="rotate tile">
+                <div class="front" style="background-color:rgba(21,37,43,1)">
+                    <p class="title">Birds Scenery</p>
+                    <p class="description">Journey to look around the majestic creatures.</p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/KBN01161Dx-0973.jpg'); ?>');">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 tile-parent">
+            <div class="rotate tile">
+                <div class="front" style="background-color:rgba(20,47,48,1)">
+                    <p class="title">Underwater</p>
+                    <p class="description">Visualize your experience under the surface of water.</p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/BKN10175DsR2263.jpg'); ?>');">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 tile-parent">
+            <div class="rotate tile">
+                <div class="front" style="background-color:rgba(50,78,93,1)">
+                    <p class="title">Landscapes</p>
+                    <p class="description">Experience a view of natural inland scenery.</p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/ANP11165DsR2138Pano.jpg'); ?>');">
+                </div>
             </div>
         </div>
     </div>
-    <div class="col-md-3 tile-parent">
-        <div class="rotate tile">
-            <div class="front" style="background-color:rgba(21,37,43,1)">
-                <p class="title">Birds Scenery</p>
-                <p class="description">Journey to look around the majestic creatures.</p>
-                <p class="readmore">More</p>
-            </div>
-            <div class="back" style="background-image: url('<?php echo base_url('assets/img/KBN01161Dx-0973.jpg'); ?>');">
-            </div>
-        </div>
-    </div>
-    <div class="col-md-3 tile-parent">
-        <div class="rotate tile">
-            <div class="front" style="background-color:rgba(20,47,48,1)">
-                <p class="title">Underwater</p>
-                <p class="description">Visualize your experience under the surface of water.</p>
-                <p class="readmore">More</p>
-            </div>
-            <div class="back" style="background-image: url('<?php echo base_url('assets/img/BKN10175DsR2263.jpg'); ?>');">
-            </div>
-        </div>
-    </div>
-    <div class="col-md-3 tile-parent">
-        <div class="rotate tile">
-            <div class="front" style="background-color:rgba(50,78,93,1)">
-                <p class="title">Landscapes</p>
-                <p class="description">Experience a view of natural inland scenery.</p>
-                <p class="readmore">More</p>
-            </div>
-            <div class="back" style="background-image: url('<?php echo base_url('assets/img/ANP11165DsR2138Pano.jpg'); ?>');">
-            </div>
-        </div>
-    </div>
-
 </div>
