@@ -19,7 +19,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         background-position: center;
         background-size: cover;
         position:absolute;
-        width:96%;
+        width:95%;
         height:100%;
         padding: 20px;
         font-family: Raleway;
