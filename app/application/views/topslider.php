@@ -21,7 +21,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       padding: 0;
     }
     .slider-container left{
-      padding-left: 20px;
+      padding-left: 30px;
     }
 </style>
 <div class="owl-carousel owl-theme">
