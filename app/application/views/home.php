@@ -130,7 +130,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-3 tile-parent">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <div class="rotate tile dark">
+=======
+            <div class="rotate tile">
+>>>>>>> parent of 2faeef6... 1
 =======
             <div class="rotate tile">
 >>>>>>> parent of 2faeef6... 1
@@ -148,6 +152,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="rotate tile dark">
 =======
             <div class="rotate tile">
+<<<<<<< HEAD
+>>>>>>> parent of 2faeef6... 1
+=======
 >>>>>>> parent of 2faeef6... 1
                 <div class="front" style="background-color:rgba(50,78,93,1)">
                     <p class="title">Macrolife</p>
@@ -174,6 +181,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="rotate tile dark">
 =======
             <div class="rotate tile">
+<<<<<<< HEAD
+>>>>>>> parent of 2faeef6... 1
+=======
 >>>>>>> parent of 2faeef6... 1
                 <div class="front" style="background-color:rgba(50,78,93,1)">
                     <p class="title">Cats</p>
