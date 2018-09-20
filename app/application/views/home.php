@@ -112,5 +112,49 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </div>
         </div>
+        <div class="col-md-3 tile-parent">
+            <div class="rotate tile">
+                <div class="front" style="background-color:rgba(50,78,93,1)">
+                    <p class="title">Fishlife</p>
+                    <p class="description"></p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/HLK02165DsR3575.jpg'); ?>');">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 tile-parent">
+            <div class="rotate tile">
+                <div class="front" style="background-color:rgba(50,78,93,1)">
+                    <p class="title">Macrolife</p>
+                    <p class="description"></p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/LBH10175DsR0249.jpg'); ?>');">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 tile-parent">
+            <div class="rotate tile">
+                <div class="front" style="background-color:rgba(50,78,93,1)">
+                    <p class="title">Mammals</p>
+                    <p class="description"></p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/CBT0514-1832.jpg'); ?>');">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 tile-parent">
+            <div class="rotate tile">
+                <div class="front" style="background-color:rgba(50,78,93,1)">
+                    <p class="title">Cats</p>
+                    <p class="description"></p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/GIR1213lionesscubs.jpg'); ?>');">
+                </div>
+            </div>
+        </div>
     </div>
 </div>
