@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <link href="<?php echo base_url('assets/css/owl.carousel.min.css'); ?>" rel="stylesheet" type="text/css"/>
 <style>
     .topslider-image{
-        height:350px;
+        height:320px;
         background-position:center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -35,7 +35,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <p style="color:white">Experience the majestic tigers of India in different settings from North, West, East, South and Central India. As their population increases and wildlife tourism gets better, no better time than now to visit India for the Royal Bengal Tiger!</p>
                 <button class="topslider-button">KNOW MORE</button>
             </div>
-            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/TigerNATX1.jpg'); ?>');">
+            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/TigerNATX2.jpg'); ?>');">
 
             </div>
         </div>
@@ -48,7 +48,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <p style="color:white">Experience the majestic tigers of India in different settings from North, West, East, South and Central India. As their population increases and wildlife tourism gets better, no better time than now to visit India for the Royal Bengal Tiger!</p>
                 <button class="topslider-button">KNOW MORE</button>
             </div>
-            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/TigerNATX1.jpg'); ?>');">
+            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/TigerNATX2.jpg'); ?>');">
 
             </div>
         </div>
@@ -60,7 +60,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <p style="color:white">Experience the majestic tigers of India in different settings from North, West, East, South and Central India. As their population increases and wildlife tourism gets better, no better time than now to visit India for the Royal Bengal Tiger!</p>
                 <button class="topslider-button">KNOW MORE</button>
             </div>
-            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/TigerNATX1.jpg'); ?>');">
+            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/TigerNATX2.jpg'); ?>');">
 
             </div>
         </div>
