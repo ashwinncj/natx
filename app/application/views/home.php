@@ -77,6 +77,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         margin-top:20px;
         position:absolute;
         bottom:20px;
+        
     }
 </style>
 <title>NATX</title>
