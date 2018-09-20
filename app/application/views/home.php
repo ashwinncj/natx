@@ -128,7 +128,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
         </div>
         <div class="col-md-3 tile-parent">
+<<<<<<< HEAD
             <div class="rotate tile dark">
+=======
+            <div class="rotate tile">
+>>>>>>> parent of 2faeef6... 1
                 <div class="front" style="background-color:rgba(50,78,93,1)">
                     <p class="title">Fishlife</p>
                     <p class="description"></p>
@@ -139,7 +143,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
         </div>
         <div class="col-md-3 tile-parent">
+<<<<<<< HEAD
             <div class="rotate tile dark">
+=======
+            <div class="rotate tile">
+>>>>>>> parent of 2faeef6... 1
                 <div class="front" style="background-color:rgba(50,78,93,1)">
                     <p class="title">Macrolife</p>
                     <p class="description"></p>
@@ -161,7 +169,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
         </div>
         <div class="col-md-3 tile-parent">
+<<<<<<< HEAD
             <div class="rotate tile dark">
+=======
+            <div class="rotate tile">
+>>>>>>> parent of 2faeef6... 1
                 <div class="front" style="background-color:rgba(50,78,93,1)">
                     <p class="title">Cats</p>
                     <p class="description"></p>
