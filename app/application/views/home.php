@@ -11,11 +11,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         transform: rotate3d(0, 1.5, 0, 0deg);
     }
     .rotate{
-        transition:all 1s; 
+        transition:all 1s;
     }
     .front{
         z-index:2;
-        transition:all 1s; 
+        transition:all 1s;
         background-position: center;
         background-size: cover;
         position:absolute;
@@ -28,7 +28,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         z-index:1;
         transform: rotate3d(0, 0.5, 0, 180deg);
         /*                transition-delay: 300ms;*/
-        transition-duration:1s; 
+        transition-duration:1s;
         background-position: center;
         background-size: cover;
         position:absolute;
@@ -59,6 +59,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     .tile .readmore{
         font-size:12px;
         color:white;
+        margin-top:20px;
+        position:absolute;
+        bottom:20px;
+    }
+    .dark .title{
+        font-size:18px;
+        color:black;
+    }
+    .dark .description{
+        font-size:13px;
+        color:black;
+    }
+    .dark .readmore{
+        font-size:12px;
+        color:black;
         margin-top:20px;
         position:absolute;
         bottom:20px;
