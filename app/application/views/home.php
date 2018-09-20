@@ -130,7 +130,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-3 tile-parent">
             <div class="rotate tile dark">
-                <div class="front" style="background-color:rgba(50,78,93,1)">
+                <div class="front" style="background-color:rgba(229,225,228,1)">
                     <p class="title">Fishlife</p>
                     <p class="description"></p>
                     <p class="readmore">More</p>
@@ -141,7 +141,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-3 tile-parent">
             <div class="rotate tile dark">
-                <div class="front" style="background-color:rgba(50,78,93,1)">
+                <div class="front" style="background-color:rgba(166,170,159,1)">
                     <p class="title">Macrolife</p>
                     <p class="description"></p>
                     <p class="readmore">More</p>
@@ -152,7 +152,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-3 tile-parent">
             <div class="rotate tile">
-                <div class="front" style="background-color:rgba(50,78,93,1)">
+                <div class="front" style="background-color:rgba(98,119,113,1)">
                     <p class="title">Mammals</p>
                     <p class="description"></p>
                     <p class="readmore">More</p>
@@ -163,7 +163,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-3 tile-parent">
             <div class="rotate tile dark">
-                <div class="front" style="background-color:rgba(50,78,93,1)">
+                <div class="front" style="background-color:rgba(134,150,168,1)">
                     <p class="title">Cats</p>
                     <p class="description"></p>
                     <p class="readmore">More</p>
