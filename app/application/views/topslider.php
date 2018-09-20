@@ -6,8 +6,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <link href="<?php echo base_url('assets/css/owl.carousel.min.css'); ?>" rel="stylesheet" type="text/css"/>
 <style>
     .topslider-image{
-        height:300px;
-        background-position: center;
+        height:350px;
+        background-position:center;
         background-repeat: no-repeat;
         background-size: cover;
     }
