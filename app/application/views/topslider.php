@@ -21,6 +21,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       padding: 0;
     }
     .slider-container .left{
+      padding: 15px;
       text-align: right;
       padding-left: 20px;
     }
