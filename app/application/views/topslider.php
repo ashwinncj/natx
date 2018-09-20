@@ -54,7 +54,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="item" style="">
         <div class="col-md-12 slider-container" style="background-color: rgba(0,0,0,0.5)">
             <div class="col-md-4 left">
-                <div class="col-md-10 col-md-offset-2">
+                <div class="col-md-10 col-md-offset-2 description">
                     <p style="color:white">Wildlife - cats</p>
                     <h3 style="color:white">Tiger</h3>
                     <p style="color:white">Experience the majestic tigers of India in different settings from North, West, East, South and Central India. As their population increases and wildlife tourism gets better, no better time than now to visit India for the Royal Bengal Tiger!</p>
@@ -69,7 +69,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="item" style="">
         <div class="col-md-12 slider-container" style="background-color: rgba(0,0,0,0.5)">
             <div class="col-md-4 left">
-                <div class="col-md-10 col-md-offset-2">
+                <div class="col-md-10 col-md-offset-2 description">
                     <p style="color:white">Wildlife - cats</p>
                     <h3 style="color:white">Tiger</h3>
                     <p style="color:white">Experience the majestic tigers of India in different settings from North, West, East, South and Central India. As their population increases and wildlife tourism gets better, no better time than now to visit India for the Royal Bengal Tiger!</p>
