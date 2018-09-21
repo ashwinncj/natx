@@ -82,7 +82,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         background-color: rgba(255,255,255,0);
         /*                box-shadow: 0px 0px 10px 0px #666;*/
         min-height: 100vh;
-        width: 80%;
+        width: 70%;
         float: none;
         margin: auto;
         margin-top: 0px;
