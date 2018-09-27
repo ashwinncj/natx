@@ -81,10 +81,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     }
 </style>
 <title>NATX</title>
-<div id="page-parent" style="background-image: url('<?php echo base_url('assets/img/MGL08175DsR9449.jpg'); ?>'); background-position:center;background-size:cover;">
+<!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg'); ?>'); background-position:center;background-size:cover;"> -->
+  <div id="page-parent" style="position:relative">
     <?php $this->load->view('topslider'); ?>
     <div id="page-layout" style="">
-                <div class="col-md-3 tile-parent">
+                <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(48,50,49,1)">
                     <p class="title">Into the WILD</p>
@@ -95,7 +96,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </div>
         </div>
-        <div class="col-md-3 tile-parent">
+        <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(21,37,43,1)">
                     <p class="title">Birds Scenery</p>
@@ -106,7 +107,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </div>
         </div>
-        <div class="col-md-3 tile-parent">
+        <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(20,47,48,1)">
                     <p class="title">Underwater</p>
@@ -117,7 +118,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </div>
         </div>
-        <div class="col-md-3 tile-parent">
+        <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(50,78,93,1)">
                     <p class="title">Landscapes</p>
@@ -128,7 +129,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </div>
         </div>
-        <div class="col-md-3 tile-parent">
+        <div class="col-md-4 tile-parent">
             <div class="rotate tile dark">
                 <div class="front" style="background-color:rgba(229,225,228,1)">
                     <p class="title">Fishlife</p>
@@ -139,7 +140,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </div>
         </div>
-        <div class="col-md-3 tile-parent">
+        <div class="col-md-4 tile-parent">
             <div class="rotate tile dark">
                 <div class="front" style="background-color:rgba(166,170,159,1)">
                     <p class="title">Macrolife</p>
@@ -150,7 +151,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </div>
         </div>
-        <div class="col-md-3 tile-parent">
+        <!-- <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(98,119,113,1)">
                     <p class="title">Mammals</p>
@@ -161,7 +162,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </div>
         </div>
-        <div class="col-md-3 tile-parent">
+        <div class="col-md-4 tile-parent">
             <div class="rotate tile dark">
                 <div class="front" style="background-color:rgba(134,150,168,1)">
                     <p class="title">Cats</p>
@@ -171,6 +172,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="back" style="background-image: url('<?php echo base_url('assets/img/GIR1213lionesscubs.jpg'); ?>');">
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </div>
