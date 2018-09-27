@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Raleway|Roboto|Roboto+Mono" rel="stylesheet">
-        <style> 
+        <style>
             #page-parent{
                 width:100%;
             }
@@ -41,23 +41,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 font-weight: normal;
                 color: #666;
             }
-            /*            .icon-img{
-                            width:30px;
-                            padding-top:5px;
-                            transition:all 3s;
-                            position:relative;
-                        }
-                        .icon-img:hover{
-                            position: absolute;
-                            top: 30px;          
-                        }
-            */            
             .tile-icons li{
                 display:inline;
                 padding:2px;
                 transition:all 2s;
             }
-            .icon-img{ 
+            .icon-img{
                 width:30px;
                 padding-top:5px;
                 position: relative;
@@ -66,7 +55,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 transition-property: top, width;
                 transition-duration:700ms;
                 transition-timing-function: ease;
-                transition-delay: 0.5s; 
+                transition-delay: 0.5s;
                 z-index: 5;
             }
             .icon-img:hover{
@@ -75,10 +64,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 color: #009966;
                 z-index:10;
             }
-            /*            .tile-icons li:hover{
-                            position: fixed;
-                            bottom: 30px;
-                        }*/
         </style>
     </head>
     <body>
@@ -90,4 +75,3 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
             </ul>
         </div>
-        
