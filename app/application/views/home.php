@@ -38,7 +38,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     .tile{
         margin: 5px;
         /*        width:230px;*/
-        height:300px;
+        height:40vh;
         position:relative;
         opacity:0.75;
     }
