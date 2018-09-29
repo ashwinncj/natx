@@ -68,10 +68,26 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </head>
     <body>
         <div id="top-bar">
-            <ul class="tile-icons">
-                <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Facebook.png'); ?>"></span></li>
-                <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Twitter.png'); ?>"></span></li>
-                <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Youtube.png'); ?>"></span></li>
-                <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
-            </ul>
+            <div class="hidden-md hidden-lg">
+                <ul class="tile-icons">
+                    <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Facebook.png'); ?>"></span></li>
+                    <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Twitter.png'); ?>"></span></li>
+                    <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Youtube.png'); ?>"></span></li>
+                    <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
+                </ul>
+            </div>
+            <div class="hidden-sm hidden-xs">
+                <div class="col-md-6 text-left">
+                    <ul class="tile-icons">
+                        <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Facebook.png'); ?>"></span></li>
+                        <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Twitter.png'); ?>"></span></li>                    
+                    </ul>
+                </div>
+                <div class="col-md-6 text-right">
+                    <ul class="tile-icons">
+                        <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Youtube.png'); ?>"></span></li>
+                        <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
+                    </ul>
+                </div>
+            </div>s
         </div>
