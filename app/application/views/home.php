@@ -88,7 +88,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(48,50,49,1)">
-                    <p class="title">Into the WILD</p>
+                    <p class="title">Nature</p>
                     <p class="description">Take a journey through the forest and look at the untamed.</p>
                     <p class="readmore">More</p>
                 </div>
@@ -99,7 +99,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(21,37,43,1)">
-                    <p class="title">Birds Scenery</p>
+                    <p class="title">Wildlife</p>
                     <p class="description">Journey to look around the majestic creatures.</p>
                     <p class="readmore">More</p>
                 </div>
@@ -110,7 +110,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(20,47,48,1)">
-                    <p class="title">Underwater</p>
+                    <p class="title">Diving</p>
                     <p class="description">Visualize your experience under the surface of water.</p>
                     <p class="readmore">More</p>
                 </div>
@@ -121,7 +121,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(50,78,93,1)">
-                    <p class="title">Landscapes</p>
+                    <p class="title">Shop</p>
                     <p class="description">Experience a view of natural inland scenery.</p>
                     <p class="readmore">More</p>
                 </div>
@@ -132,7 +132,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4 tile-parent">
             <div class="rotate tile dark">
                 <div class="front" style="background-color:rgba(229,225,228,1)">
-                    <p class="title">Fishlife</p>
+                    <p class="title">Blog / Gallery</p>
                     <p class="description"></p>
                     <p class="readmore">More</p>
                 </div>
@@ -143,35 +143,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4 tile-parent">
             <div class="rotate tile dark">
                 <div class="front" style="background-color:rgba(166,170,159,1)">
-                    <p class="title">Macrolife</p>
+                    <p class="title">Contact</p>
                     <p class="description"></p>
                     <p class="readmore">More</p>
                 </div>
                 <div class="back" style="background-image: url('<?php echo base_url('assets/img/LBH10175DsR0249.jpg'); ?>');">
                 </div>
             </div>
-        </div>
-        <!-- <div class="col-md-4 tile-parent">
-            <div class="rotate tile">
-                <div class="front" style="background-color:rgba(98,119,113,1)">
-                    <p class="title">Mammals</p>
-                    <p class="description"></p>
-                    <p class="readmore">More</p>
-                </div>
-                <div class="back" style="background-image: url('<?php echo base_url('assets/img/CBT0514-1832.jpg'); ?>');">
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 tile-parent">
-            <div class="rotate tile dark">
-                <div class="front" style="background-color:rgba(134,150,168,1)">
-                    <p class="title">Cats</p>
-                    <p class="description"></p>
-                    <p class="readmore">More</p>
-                </div>
-                <div class="back" style="background-image: url('<?php echo base_url('assets/img/GIR1213lionesscubs.jpg'); ?>');">
-                </div>
-            </div>
-        </div> -->
+        </div>        
     </div>
 </div>
