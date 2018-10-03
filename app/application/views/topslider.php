@@ -85,7 +85,43 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/slider/6.jpg'); ?>');width:100%">
             </div>
         </div>
-    </div>  
+    </div>
+    <div class="item" style="">
+        <div class="col-md-12 slider-container" style="background-color: rgba(0,0,0,0.5)">         
+            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/slider/7.jpg'); ?>');width:100%">
+            </div>
+        </div>
+    </div>
+    <div class="item" style="">
+        <div class="col-md-12 slider-container" style="background-color: rgba(0,0,0,0.5)">         
+            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/slider/8.jpg'); ?>');width:100%">
+            </div>
+        </div>
+    </div>
+    <div class="item" style="">
+        <div class="col-md-12 slider-container" style="background-color: rgba(0,0,0,0.5)">         
+            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/slider/9.jpg'); ?>');width:100%">
+            </div>
+        </div>
+    </div>
+    <div class="item" style="">
+        <div class="col-md-12 slider-container" style="background-color: rgba(0,0,0,0.5)">         
+            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/slider/10.jpg'); ?>');width:100%">
+            </div>
+        </div>
+    </div>
+    <div class="item" style="">
+        <div class="col-md-12 slider-container" style="background-color: rgba(0,0,0,0.5)">         
+            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/slider/11.jpg'); ?>');width:100%">
+            </div>
+        </div>
+    </div>
+    <div class="item" style="">
+        <div class="col-md-12 slider-container" style="background-color: rgba(0,0,0,0.5)">         
+            <div class="col-md-8 topslider-image right" style="background-image: url('<?php echo base_url('assets/img/slider/12.jpg'); ?>');width:100%">
+            </div>
+        </div>
+    </div>
 </div>
 <script>
     $('.owl-carousel').owlCarousel({

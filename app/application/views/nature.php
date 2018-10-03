@@ -89,16 +89,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(48,50,49,1)">
-                    <p class="title">Bera & Ranthambore</p>
+                    <p class="title">Summer Spiti Valley Expedition</p>
                     <p class="description">
                         
                     </p>
                     <p class="readmore">More</p>
                 </div>
-                <div class="back" style="background-image: url('<?php echo base_url('assets/img/packages/wildlife_ranthambore.jpg'); ?>');">
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/packages/nature_summer_spiti_valley.jpg'); ?>');">
                 </div>
             </div>
-        </div>
+<!--        </div>
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(21,37,43,1)">
@@ -161,6 +161,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="back" style="background-image: url('<?php echo base_url('assets/img/packages/wildlife_snow_leopard_spiti_valley_winter.jpg'); ?>');">
                 </div>
             </div>
-        </div>        
+        </div>        -->
     </div>
 </div>
