@@ -89,13 +89,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(48,50,49,1)">
-                    <p class="title">Nature</p>
+                    <p class="title">Bera & Ranthambore</p>
                     <p class="description">
-                        A large country with variety of terrains and landscapes makes India, a jewel for Nature visit! Come on our tours to experience the beauty of the nation!
+                        
                     </p>
                     <p class="readmore">More</p>
                 </div>
-                <div class="back" style="background-image: url('<?php echo base_url('assets/img/BTR05171DxMii6350.jpg'); ?>');">
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/packages/wildlife_ranthambore.jpg'); ?>');">
                 </div>
             </div>
         </div>

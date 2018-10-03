@@ -23,7 +23,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         height:100%;
         padding: 20px;
         font-family: Raleway;
-        overflow:hidden;
     }
     .back{
         z-index:1;
@@ -39,7 +38,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     .tile{
         margin: 5px;
         /*        width:230px;*/
-        height:40vh;
+        height:300px;
         position:relative;
         opacity:0.75;
     }
@@ -78,21 +77,27 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         margin-top:20px;
         position:absolute;
         bottom:20px;
-
+    }
+    #page-layout-category{
+        background-color: rgba(255,255,255,0);
+        /*                box-shadow: 0px 0px 10px 0px #666;*/
+        min-height: 100vh;
+        width: 70%;
+        float: none;
+        margin: auto;
+        margin-top: 0px;
+        overflow: auto;
     }
 </style>
 <title>NATX</title>
-<!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg');    ?>'); background-position:center;background-size:cover;"> -->
-<div id="page-parent" style="position:relative">
-    <?php $this->load->view('topslider'); ?>
-    <div id="page-layout" style="">
+
+<div id="page-parent" style="background-image: url('<?php echo base_url('assets/img/MGL08175DsR9449.jpg'); ?>'); background-position:center;background-size:cover;">
+    <div id="page-layout-category" style="">
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
-                <div class="front" style="background-color:rgba(48,50,49,1)">
-                    <p class="title">Nature</p>
-                    <p class="description">
-                        A large country with variety of terrains and landscapes makes India, a jewel for Nature visit! Come on our tours to experience the beauty of the nation!
-                    </p>
+                <div class="front" style="background-color:rgba(49,50,51,1)">
+                    <p class="title">Into the WILD</p>
+                    <p class="description">Take a journey through the forest and look at the untamed.</p>
                     <p class="readmore">More</p>
                 </div>
                 <div class="back" style="background-image: url('<?php echo base_url('assets/img/BTR05171DxMii6350.jpg'); ?>');">
@@ -101,11 +106,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
-                <div class="front" style="background-color:rgba(21,37,43,1)">
-                    <p class="title">Wildlife</p>
-                    <p class="description">
-                        With over a decade of experience traveling the wild in India, the team has come up with packages for a comprehensive but entertaining list of wildlife tours.
-                    </p>
+                <div class="front" style="background-color:rgba(42,49,57,1)">
+                    <p class="title">Birds Scenery</p>
+                    <p class="description">Journey to look around the majestic creatures.</p>
                     <p class="readmore">More</p>
                 </div>
                 <div class="back" style="background-image: url('<?php echo base_url('assets/img/KBN01161Dx-0973.jpg'); ?>');">
@@ -114,16 +117,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
-                <div class="front" style="background-color:rgba(20,47,48,1)">
-                    <p class="title">Diving</p>
-                    <p class="description">
-                        With over a decade of experience traveling the wild in India, the team has come up with packages for a comprehensive but entertaining list of wildlife tours.
-                        Ever wondered how it could be, if you could breath underwater and enjoy that world unseen by a normal man! 
-                        That's exactly what scuba diving teaches you. Spend a little part of your vacation to get certified as a scuba diver and take a plunge into a new passion. 
-                        We will help you with courses to suit all levels.
-                        Are you a certified Scuba diver looking for a dive holiday?
-                        Our professional team will help you plan your dive holidays from a list, curated with personal experience, to suit your ability and budget.
-                    </p>
+                <div class="front" style="background-color:rgba(103,107,96,1)">
+                    <p class="title">Underwater</p>
+                    <p class="description">Visualize your experience under the surface of water.</p>
                     <p class="readmore">More</p>
                 </div>
                 <div class="back" style="background-image: url('<?php echo base_url('assets/img/BKN10175DsR2263.jpg'); ?>');">
@@ -131,12 +127,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
         </div>
         <div class="col-md-4 tile-parent">
-            <div class="rotate tile">
-                <div class="front" style="background-color:rgba(50,78,93,1)">
-                    <p class="title">Shop</p>
-                    <p class="description">
-                    We are pleased to sell Made in India items at world class quality for a variety of needs. Serious experience and thought has gone in designing these items.     
-                    </p>
+            <div class="rotate tile dark">
+                <div class="front" style="background-color:rgba(224,220,223,1)">
+                    <p class="title">Landscapes</p>
+                    <p class="description">Experience a view of natural inland scenery.</p>
                     <p class="readmore">More</p>
                 </div>
                 <div class="back" style="background-image: url('<?php echo base_url('assets/img/ANP11165DsR2138Pano.jpg'); ?>');">
@@ -145,11 +139,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-4 tile-parent">
             <div class="rotate tile dark">
-                <div class="front" style="background-color:rgba(229,225,228,1)">
-                    <p class="title">Blog & Gallery</p>
-                    <p class="description">
-                        We share thoughts from our guests and use in our blogs. Our guests can send us their images which once selected, will be posted in our gallery so they can also relate to the shared experience.     
-                    </p>
+                <div class="front" style="background-color:rgba(185,180,170,1)">
+                    <p class="title">Fishlife</p>
+                    <p class="description"></p>
                     <p class="readmore">More</p>
                 </div>
                 <div class="back" style="background-image: url('<?php echo base_url('assets/img/HLK02165DsR3575.jpg'); ?>');">
@@ -158,14 +150,47 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-4 tile-parent">
             <div class="rotate tile dark">
-                <div class="front" style="background-color:rgba(166,170,159,1)">
-                    <p class="title">Contact</p>
+                <div class="front" style="background-color:rgba(121,125,118,1)">
+                    <p class="title">Macrolife</p>
                     <p class="description"></p>
                     <p class="readmore">More</p>
                 </div>
                 <div class="back" style="background-image: url('<?php echo base_url('assets/img/LBH10175DsR0249.jpg'); ?>');">
                 </div>
             </div>
-        </div>        
+        </div>
+        <div class="col-md-4 tile-parent">
+            <div class="rotate tile">
+                <div class="front" style="background-color:rgba(97,108,155,1)">
+                    <p class="title">Mammals</p>
+                    <p class="description"></p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/CBT0514-1832.jpg'); ?>');">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 tile-parent">
+            <div class="rotate tile">
+                <div class="front" style="background-color:rgba(53,67,85,1)">
+                    <p class="title">Cats</p>
+                    <p class="description"></p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/GIR1213lionesscubs.jpg'); ?>');">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 tile-parent">
+            <div class="rotate tile dark">
+                <div class="front" style="background-color:rgba(137,146,168,1)">
+                    <p class="title">Coralspaces</p>
+                    <p class="description"></p>
+                    <p class="readmore">More</p>
+                </div>
+                <div class="back" style="background-image: url('<?php echo base_url('assets/img/MTA08175DsR0026.jpg'); ?>');">
+                </div>
+            </div>
+        </div>
     </div>
 </div>
