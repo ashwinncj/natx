@@ -82,7 +82,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     }
 </style>
 <title>NATX</title>
-<!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg');    ?>'); background-position:center;background-size:cover;"> -->
+<!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg');     ?>'); background-position:center;background-size:cover;"> -->
 <div id="page-parent" style="position:relative">
     <?php $this->load->view('topslider'); ?>
     <div id="page-layout" style="">
@@ -117,12 +117,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="front" style="background-color:rgba(20,47,48,1)">
                     <p class="title">Diving</p>
                     <p class="description">
-                        With over a decade of experience traveling the wild in India, the team has come up with packages for a comprehensive but entertaining list of wildlife tours.
-                        Ever wondered how it could be, if you could breath underwater and enjoy that world unseen by a normal man! 
-                        That's exactly what scuba diving teaches you. Spend a little part of your vacation to get certified as a scuba diver and take a plunge into a new passion. 
-                        We will help you with courses to suit all levels.
-                        Are you a certified Scuba diver looking for a dive holiday?
-                        Our professional team will help you plan your dive holidays from a list, curated with personal experience, to suit your ability and budget.
+                        Ever wondered how it could be, if you could breath underwater and enjoy that world unseen by a normal man! Take up a SCUBA diving course and become a diver. Our professional team help you with a course to suit your needs
+                        Not Just that! You can plan your dive holidays from a list, curated with personal experience, to suit your ability and budget.
                     </p>
                     <p class="readmore">More</p>
                 </div>
@@ -135,7 +131,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="front" style="background-color:rgba(50,78,93,1)">
                     <p class="title">Shop</p>
                     <p class="description">
-                    We are pleased to sell Made in India items at world class quality for a variety of needs. Serious experience and thought has gone in designing these items.     
+                        We are pleased to sell Made in India items at world class quality for a variety of needs. Serious experience and thought has gone in designing these items.     
                     </p>
                     <p class="readmore">More</p>
                 </div>
