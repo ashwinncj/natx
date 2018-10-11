@@ -102,7 +102,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
                 <div class="front" style="background-color:rgba(21,37,43,1)">
-                    <p class="title">Dudhwa</p>
+                    <p class="title">Dudhwa (Photography Only)</p>
                     <p class="description">
                         
                     </p>
@@ -141,7 +141,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4 tile-parent">
             <div class="rotate tile dark">
                 <div class="front" style="background-color:rgba(229,225,228,1)">
-                    <p class="title">Bera</p>
+                    <p class="title">Bera (Photography Only)</p>
                     <p class="description">
 
                     </p>

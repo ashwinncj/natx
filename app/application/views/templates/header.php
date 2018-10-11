@@ -89,5 +89,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
                     </ul>
                 </div>
-            </div>s
+            </div>
         </div>

@@ -12,10 +12,9 @@ class Package extends CI_Controller {
         $this->load->view('templates/header');
         $this->load->view('package');
     }
-    public function info($name='default') {
-        $data['name']=$name;
+    public function info($name='default') {        
         $this->load->view('templates/header');
-        $this->load->view('package',$data);
+        $this->load->view('packages/'.$name);
     }
 
 }
