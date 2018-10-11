@@ -18,14 +18,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             Winter Spiti Valley Expedition
         </h1>
 	<h2>
-	    (With State Forest Department's permission)
+		(With State Forest Department's permission)
 	</h2>
-	<h3><b>10 nights 11 days trip<b>
-	<br><br>
-	7 nights in Kibber with 2 nights on the way to Kibber and 1 night on the way back from Kibber.
-	<br>
-	All facilities included door to door Chandigarh or Shimla.
-	</h3>
+		<h3>
+			<b>10 nights 11 days trip</b>
+			<br><br>
+	    	</h3>
+	    	<h4>7 nights in Kibber with 2 nights on the way to Kibber and 1 night on the way back from Kibber.
+		<br>
+		All facilities included door to door Chandigarh or Shimla.
+		</h4>
         <div style="padding-left:30px;padding-right: 30px">
             <!--        //Put description here-->
 		<ul>
