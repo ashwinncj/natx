@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         background-color: rgba(255,255,255,0.85);
     }
 </style>
-<title>NATX - Dudhwa and Bardia</title>
+<title>NATX - Winter Spiti Valley Expedition</title>
 <div id="page-parent" style="background-image: url('<?php echo base_url('assets/img/packages/wildlife_dudhwaimage.jpg'); ?>'); background-position:center;background-size:cover;"> 
     <!--<div id="page-parent" style="position:relative">-->
     <?php //$this->load->view('topslider'); ?>
@@ -15,20 +15,45 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <h1>
             <!--        //Put heading here-->
-            Dudhwa and Bardia
+            Winter Spiti Valley Expedition
         </h1>
+	<h2>
+	    (With State Forest Department's permission)
+	</h2>
+	<h3><b>10 nights 11 days trip<b>
+	<br><br>
+	7 nights in Kibber with 2 nights on the way to Kibber and 1 night on the way back from Kibber.
+	<br>
+	All facilities included door to door Chandigarh or Shimla.
+	</h3>
         <div style="padding-left:30px;padding-right: 30px">
             <!--        //Put description here-->
-            <h3>Day1</h3>
-            <p>Arrival at New Delhi</p>
-            <h3>Day2</h3>
-            <p>Leave to Lucknow by morning flight - Road transfer (5 hours drive) to Dudhwa (variety of Breakfast options on the way or we arrange packed to save time). 
-                Check in at Original home of The Legend Billy Arjan Singh’s home converted in to Resort and run by Mr. Shaminder, writer of Billy Arjan Singh’s Biography (A well furnished resort equipped with 5 rooms, beautiful dining area, and a deck overlooking waterbody and the jungle in the backdrop to give the wildlife feeling while you’re in the resort itself) 
-                Afternoon lunch at the resort. 
-            </p>
-			<h3>Day 3</h3>
-			<p>Morning safari from the main gate of Dudhwa National park followed by breakfast at the resort. After Lunch at 1.30 Pm, We will take you to the Tiger Land, a remarkable forest called Kishanpur Wildlife Sanctuary, a 40 minutes drive in an SUV.  Open Safari jeeps will be waiting for us at the forest gates. You can spend some quality time with majestic Terai tigers (Foothills of Himalayas bordering Nepal). 
-Roof top dinner at 8.00 PM</p>
+		<ul>
+        		<li>Pick up from Chandigarh or Shimla airport.</li>
+			<li>Midway overnight halt at Rampur. Heritage Hotel Nau Nabha. It has functioning amenities in winter as well.</li>
+			<li>The travel time from Chandigarh to Rampur is 7 hours.</li>
+			<li>Rampur is at 4400 feet.</li>
+			<li>Leave next morning after breakfast for Tabo 8 AM.</li>
+			<li>Night halt in Tabo home stay for acclimatization. It is at 10,000 feet. Sometimes due to road block, blasting or landslide, it is safer to stay in Tabo as it is a 10 – 11- hour drive from Rampur. </li>
+			<li>Visit Tabo Monastery EST. 996 AD, in the morning after breakfast and leave for Kibber 9 AM. </li>
+			<li>Stop short of Kibber to visit/ photograph Key Monastery.</li>
+			<li>Home stay in Kibber for 7 nights at 14,500 feet.</li>
+			<li>2 guests to a room at hotel and home stays.</li>
+			<li>Leave Kibber for Rampur on day 10th and get dropped in Chandigarh or Shimla on Day 11th.</li>
+			<li>All stay midway to and fro included except last evening in Chandigarh or Shimla on the way back. </li>
+			<li>All meals, snacks, tea/coffee and mineral water included.</li>
+			<li>Breakfast at homestay, lunch at site and dinner at homestay in Kibber. Subject to change depending on the sighting. Hot tea provided at the site twice a day. Snacks on the way back from the day’s trip. Individual preferences to be notified in advance before the commencement of the trip.</li>
+			<li>2 guests to a room at midway hotel in Rampur, Tabo Homestay and Kibber Homestay.</li>
+			<li>Dry toilet generally as the water freezes. Subject to change if weather permits and one can use the regular toilet.</li>
+			<li>Daily hot water for bathing and freshening up. Bathroom is fully functional for freshening up or bath.</li>
+			<li>One guide per group.</li>
+			<li>One helper per person to carry the backpack/camera equipment.</li>
+			<li>Walking pole and stool provided for trek and resting at the site.</li>
+			<li>Tent pitched for resting at sighting site.</li>
+			<li>Insulated mats for lying down in snow.</li>
+			<li>Portable oxygen cylinder for any shortness of breath or symptoms.</li>
+			<li>Oxygen saturation measurement device for any symptoms of shortness of breath. </li>
+		</ul>	
         </div>
     </div>
 </div>
