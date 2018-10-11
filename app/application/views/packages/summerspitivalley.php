@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         background-color: rgba(255,255,255,0.85);
     }
 </style>
-<title>NATX - Dudhwa and Bardia</title>
+<title>NATX - Summer Spiti Valley Expedition</title>
 <div id="page-parent" style="background-image: url('<?php echo base_url('assets/img/packages/wildlife_dudhwaimage.jpg'); ?>'); background-position:center;background-size:cover;"> 
     <!--<div id="page-parent" style="position:relative">-->
     <?php //$this->load->view('topslider'); ?>
@@ -15,20 +15,36 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <h1>
             <!--        //Put heading here-->
-            Dudhwa and Bardia
+            Summer Spiti Valley Expedition
         </h1>
+	<h2>
+		With State Forest Department's Permission
+	</h2>
         <div style="padding-left:30px;padding-right: 30px">
             <!--        //Put description here-->
-            <h3>Day1</h3>
-            <p>Arrival at New Delhi</p>
-            <h3>Day2</h3>
-            <p>Leave to Lucknow by morning flight - Road transfer (5 hours drive) to Dudhwa (variety of Breakfast options on the way or we arrange packed to save time). 
-                Check in at Original home of The Legend Billy Arjan Singh’s home converted in to Resort and run by Mr. Shaminder, writer of Billy Arjan Singh’s Biography (A well furnished resort equipped with 5 rooms, beautiful dining area, and a deck overlooking waterbody and the jungle in the backdrop to give the wildlife feeling while you’re in the resort itself) 
-                Afternoon lunch at the resort. 
-            </p>
-			<h3>Day 3</h3>
-			<p>Morning safari from the main gate of Dudhwa National park followed by breakfast at the resort. After Lunch at 1.30 Pm, We will take you to the Tiger Land, a remarkable forest called Kishanpur Wildlife Sanctuary, a 40 minutes drive in an SUV.  Open Safari jeeps will be waiting for us at the forest gates. You can spend some quality time with majestic Terai tigers (Foothills of Himalayas bordering Nepal). 
-Roof top dinner at 8.00 PM</p>
+        	<h3>Day 1</h3>
+        	<p>land in Chandigarh or Shimla airport and drive to Sangla Valley.
+		<br>
+		Stay the night in Sangla Valley, known for its Apple orchards.
+		</p>
+        	<h3>Day 2</h3>
+        	<p>Go for a hike around the area.
+        	</p>
+		<h3>Day 3</h3>
+		<p>Drive to Nako village and stay in tents for a night over looking the magnificent mountains of Himachal Pradesh. The Nako lake is a famous place to walk around and check out the local markets. Then go to the Nako monastery.
+		</p>
+		<h3>Day 4</h3>
+		<p>Drive to Kaza in Himachal Pradesh. The drive itself will mesmerize you with God’s creations and it is life time experience. First the Sutluj river will accompany you along the road and then the Spiti river guides you to Spiti Valley. We will have small stops to take pictures and refreshments.
+		</p>
+		<h3>Day 5 & 6</h3>
+		<p>Drive to Kibber, Langza and Komic to see beauty and effort to inhabit such high grounds and landmarks. the highest post office is located there. One can send postcard from there to the loved ones. The landscape is just magnificent to view. If you are lucky, you will see wildlife also. Many bird species are also spotted there. Key monastery is another prominent visitor destination. Another half a day will be utilised to visit Tabo monastery and caves, the local streets and then return to Kaza hotel.
+		</p>
+		<h3>Day 7</h3>
+		<p>Drive to Rampur and stay in heritage hotel.
+		</p>
+		<h3>Day 8</h3>
+		<p>Fly back home from Shimla or Chandigarh.
+		</p>
         </div>
     </div>
 </div>
