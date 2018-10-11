@@ -19,9 +19,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </h1>
         <div style="padding-left:30px;padding-right: 30px">
             <!--        //Put description here-->
-            <h3>Day1</h3>
+            <h3>Day 1</h3>
             <p>Arrival at New Delhi and overnight stay at Airport hotel</p>
-            <h3>Day2</h3>
+            <h3>Day 2</h3>
             <p>Leave to Udaipur by morning flight - Road transfer (3 hours drive) to Bera. Afternoon lunch followed by a evening safari. Stay at Heritage villas, Bera. Dinner and cultural show at night 
             </p>
 	    <h3>Day 3</h3>
