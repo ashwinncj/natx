@@ -20,7 +20,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div style="padding-left:30px;padding-right: 30px">
             <!--        //Put description here-->
             <h3>Day1</h3>
-            <p>The day 1 <b>description</b> goes here.</p>
+            <p>Arrival at New Delhi</p>
+            <h3>Day2</h3>
+            <p>Leave to Lucknow by morning flight - Road transfer (5 hours drive) to Dudhwa (variety of Breakfast options on the way or we arrange packed to save time). 
+                Check in at Original home of The Legend Billy Arjan Singh’s home converted in to Resort and run by Mr. Shaminder, writer of Billy Arjan Singh’s Biography (A well furnished resort equipped with 5 rooms, beautiful dining area, and a deck overlooking waterbody and the jungle in the backdrop to give the wildlife feeling while you’re in the resort itself) 
+                Afternoon lunch at the resort. 
+            </p>
         </div>
     </div>
 </div>

@@ -84,7 +84,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <title>NATX</title>
 <!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg');    ?>'); background-position:center;background-size:cover;"> -->
 <div id="page-parent" style="position:relative">
-    <?php $this->load->view('topslider'); ?>
+    <?php $this->load->view('slider-wildlife'); ?>
     <div id="page-layout" style="">
         <div class="col-md-4 tile-parent">
             <div class="rotate tile">
