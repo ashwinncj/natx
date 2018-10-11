@@ -19,9 +19,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </h1>
         <div style="padding-left:30px;padding-right: 30px">
         	<!--        //Put description here-->
-        	<h3>Day1</h3>
+        	<h3>Day 1</h3>
         	<p>You will land in Udaipur, lunch or late lunch and drive to Bera - 3 hours followed by bonfire and barbecue dinner.</p>
-        	<h3>Day2</h3>
+        	<h3>Day 2</h3>
         	<p>The day will begin with morning safari to the hills around Bera village. Most of the hills are within 5 to 10 kilometres radius and accessible in open jeeps. Tea/coffee/water will be carried along and after a morning safari, breakfast will be served at the resort.
 		<br><br>
 		There is an option to extend the safari and visit Jawai reservoir which is also a Crocodile sanctuary and in winters one finds 14 to 16 footer crocs basking in the sun on the rocks of Jawai. Many migratory birds are also present in the winter months like Greater Flamingoes, Demoiselle Cranes and several others.
