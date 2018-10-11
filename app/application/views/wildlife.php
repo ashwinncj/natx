@@ -82,7 +82,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     }
 </style>
 <title>NATX</title>
-<!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg');    ?>'); background-position:center;background-size:cover;"> -->
+<!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg');      ?>'); background-position:center;background-size:cover;"> -->
 <div id="page-parent" style="position:relative">
     <?php $this->load->view('slider-wildlife'); ?>
     <div id="page-layout" style="">
@@ -91,7 +91,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="front" style="background-color:rgba(48,50,49,1)">
                     <p class="title">Bera & Ranthambore</p>
                     <p class="description">
-                        
+                        10 days trip covering Udaipur, Bera, Ranthambhore and Jaipur. One gets to see heritage, wildlife, ethnic shopping and local cuisines.
                     </p>
                     <p class="readmore">More</p>
                 </div>
@@ -104,7 +104,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="front" style="background-color:rgba(21,37,43,1)">
                     <p class="title">Dudhwa (Photography Only)</p>
                     <p class="description">
-                        
+                        5 Day trip to check out the Terai grass lands of the lower himalayas! Tiger, Barasinghas, Elephants, Rhinos and much more.
                     </p>
                     <p class="readmore">More</p>
                 </div>
@@ -117,7 +117,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="front" style="background-color:rgba(20,47,48,1)">
                     <p class="title">Dudhwa (India) & Bardia (Nepal)</p>
                     <p class="description">
-                       
+                        10 days trip covering Billy's area Dudhwa, Nepal and Lucknow. Wildlife, two countries with border crossing, local cuisine of Lucknow. 
                     </p>
                     <p class="readmore">More</p>
                 </div>
@@ -130,7 +130,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="front" style="background-color:rgba(50,78,93,1)">
                     <p class="title">Winter Spiti Valley Snow Leopard Expedition</p>
                     <p class="description">
-                    
+                        11 days trip to the Snow Leopard country in comfortable home stays and high probability of good snow leopard sightings.
                     </p>
                     <p class="readmore">More</p>
                 </div>
@@ -143,7 +143,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="front" style="background-color:rgba(229,225,228,1)">
                     <p class="title">Bera (Photography Only)</p>
                     <p class="description">
-
+                        5 Day trip of Bera and Udaipur. Wildlife photography in Bera and heritage sightseeing in Udaipur.
                     </p>
                     <p class="readmore">More</p>
                 </div>
