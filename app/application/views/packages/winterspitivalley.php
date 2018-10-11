@@ -22,11 +22,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</h2>
 		<h3>
 			<b>10 nights 11 days trip</b>
-			<br><br>
+			<br>
 	    	</h3>
 	    	<h4>7 nights in Kibber with 2 nights on the way to Kibber and 1 night on the way back from Kibber.
 		<br>
 		All facilities included door to door Chandigarh or Shimla.
+		<br>
 		</h4>
         <div style="padding-left:30px;padding-right: 30px">
             <!--        //Put description here-->
