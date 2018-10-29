@@ -37,15 +37,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	    <p>Tea / coffee at cafeteria followed by morning safari till 11.00 AM. (We can opt for packed breakfast or come back for breakfast). Afternoon safari from early evening to dusk followed by a dinner at 8.00 PM at resort.
 	    </p>
 	    <h3>Day 7</h3>
-	    <p>
-	    </p>
-	    <h3>Day 8</h3>
 	    <p>A full day opportunity to spend time inside the park with a chance to see as many tigers as possible in their natural habitat. This is a Dawn to Dusk safari with breakfast and Lunch served in the vehicle itself. An opportunity available to very view selected tourists every day and booked in advance to accommodate you. We will return to hotel for an early dinner and retire to bed early for the next day.
 	    </p>
-	    <h3>Day 9</h3>
+	    <h3>Day 8</h3>
 	    <p>Tea / coffee at cafeteria followed by morning safari till 11.00 AM. (We can opt for packed break fast or come back for break fast). Afternoon safari from early evening to dusk. We will leave to Jaipur by 7 PM. Stay at a good hotel in Jaipur for the night.
 	    </p>
-	    <h3>Day 10</h3>
+	    <h3>Day 9</h3>
 	    <p>Early Break fast followed by a local tour and shopping around Jaipur. Catch the evening flight to Delhi for onward journey home. We will plan flight to Delhi to reach by 7.00 PM in Delhi Airport.
 	    </p>
 	</div>
