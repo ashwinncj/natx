@@ -30,6 +30,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             #top-bar{
                 background-color: rgba(0,0,0,0.7);
                 height: 40px;
+                position: relative;
+                z-index: 5;
 
             }
             #page-layout-heading{
@@ -45,49 +47,63 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 display:inline;
                 padding:2px;
                 transition:all 2s;
+                position: fixed;
             }
             .icon-img{
                 width:30px;
                 padding-top:5px;
                 position: relative;
-                top: 0;
-                transition:all 700ms;
+                top: 0vh;
+                transition:all 1000ms;
                 transition-property: top, width;
-                transition-duration:700ms;
+                transition-duration:1000ms;
                 transition-timing-function: ease;
-                transition-delay: 0.5s;
+                transition-delay: 0.8s;
                 z-index: 5;
             }
             .icon-img:hover{
                 width:35px;
-                top: 600px;
+                top: 65%;
                 color: #009966;
                 z-index:10;
+            }
+            .icon-drop{
+                top: 50vh;
             }
         </style>
     </head>
     <body>
         <div id="top-bar">
-            <div class="hidden-md hidden-lg">
-                <ul class="tile-icons">
-                    <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Facebook.png'); ?>"></span></li>
-                    <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Twitter.png'); ?>"></span></li>
-                    <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Youtube.png'); ?>"></span></li>
-                    <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
+            <div class="hidden-md hidden-lg text-center">
+                <a href="<?php echo base_url(); ?>"><img src="<?php echo base_url('assets/img/NATXLogo.png'); ?>" style="width: 250px;"></a>
+                <ul class="tile-icons" style="padding: 0">
+                    <li style="left: 0px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Facebook.png'); ?>"></span></li>
+                    <li style="left: 40px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Twitter.png'); ?>"></span></li>
+                    <li style="right: 40px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Youtube.png'); ?>"></span></li>
+                    <li style="right: 0px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
                 </ul>
             </div>
             <div class="hidden-sm hidden-xs">
-                <div class="col-md-6 text-left">
+                <div class="col-md-4 text-left">
                     <ul class="tile-icons">
-                        <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Facebook.png'); ?>"></span></li>
-                        <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Twitter.png'); ?>"></span></li>                    
+                        <li style="left: 40px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Facebook.png'); ?>"></span></li>
+                        <li style="left: 80px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Twitter.png'); ?>"></span></li>                    
                     </ul>
                 </div>
-                <div class="col-md-6 text-right">
+                <div class="col-md-4 text-center" style="z-index: 5">
+                    <a href="<?php echo base_url(); ?>"><img src="<?php echo base_url('assets/img/NATXLogo.png'); ?>" style="width: 250px;"></a>
+                </div>
+                <div class="col-md-4 text-right">
                     <ul class="tile-icons">
-                        <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Youtube.png'); ?>"></span></li>
-                        <li><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
+                        <li style="right: 40px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Youtube.png'); ?>"></span></li>
+                        <li style="right: 80px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
                     </ul>
                 </div>
             </div>
         </div>
+        <script>
+            $(document).ready(function () {
+                $('.icon-img').css('top','80vh');  
+                //$('.icon-img').css('position','fixed');
+            });
+        </script>

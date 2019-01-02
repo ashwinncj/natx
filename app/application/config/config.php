@@ -24,6 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'http://naturextreme.com/';
+//$config['base_url'] = '/natx/app/';
 
 /*
 |--------------------------------------------------------------------------
