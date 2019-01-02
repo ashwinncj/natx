@@ -166,13 +166,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="rotate tile dark">
                     <div class="front" style="background-color:rgba(166,170,159,1)">
                         <p class="title">Contact</p>
-                        <p class="description"></p>
-                        <p class="readmore">More</p>
+                        <p class="description">
+                            <b>Nandana Idea Space</b><br/>
+                            <b>Mr. Sanjeet Mangat </b><br/>
+                            +91 98157 91910 <br/><br/>
+                            <b>Mr. Nanda Kumar </b><br/>
+                            +91 98450 44599 <br/>
+                            <br/>
+                            Email: <b>info@naturextreme.com</b><br/>
+                        </p>
+                        <!--<p class="readmore">More</p>-->
                     </div>
-                    <div class="back" style="background-image: url('<?php echo base_url('assets/img/packages/wildlife_snow_leopard_spiti_valley_winter.jpg'); ?>');">
+                    <div class="back" style="background-image: url('<?php echo base_url('assets/img/LBH10175DsR0249.jpg'); ?>');">
                     </div>
                 </div>
             </a>
-        </div>        
-    </div>
+        </div>
 </div>
