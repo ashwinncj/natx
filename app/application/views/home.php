@@ -176,7 +176,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <p> +91 98450 44599</p>
                             </div>
                             <div class="col-xs-6 description text-center" style="padding: 0">
-                                <p style="margin: 0">Snajeet Mangat</p>
+                                <p style="margin: 0">Sanjeet Mangat</p>
                                 <p>+91 98157 91910</p>
                             </div>
                         </div>
