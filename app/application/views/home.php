@@ -164,11 +164,24 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-4 tile-parent">
             <a href="<?php echo base_url(''); ?>">
-                <div class="rotate tile dark">
+                <div class="tile dark">
                     <div class="front" style="background-color:rgba(166,170,159,1)">
-                        <p class="title">Contact</p>
-                        <p class="description">
-                            <b>Nandana Idea Space</b><br/>
+                        <p class="title" style="z-index: 5;position: relative;">Contact</p>
+                        <a href="mailto:info@naturextreme.com"><b style="color: black">Mail-to: info@naturextreme.com</b></a>
+                        <div class="col-xs-6" style="background-image: url('<?php echo base_url('assets/img/Nanda.jpg'); ?>');position: relative;left: 0;height: 60%;background-position: center;background-size: cover"></div>
+                        <div class="col-xs-6" style="background-image: url('<?php echo base_url('assets/img/Sanjeet.jpg'); ?>');position: relative;right: 0;height: 60%;background-position: center;background-size: cover"></div>
+                        <div class="col-xs-12" style="background-color: #fff;font-weight: bold;padding: 0">
+                            <div class="col-xs-6 description text-center" style="padding: 0">
+                                <p style="margin: 0">Nandakumar</p>
+                                <p> +91 98450 44599</p>
+                            </div>
+                            <div class="col-xs-6 description text-center" style="padding: 0">
+                                <p style="margin: 0">Snajeet Mangat</p>
+                                <p>+91 98157 91910</p>
+                            </div>
+                        </div>
+<!--                        <p class="description">
+                            <b></b><br/>
                             <b>Mr. Sanjeet Mangat </b><br/>
                             +91 98157 91910 <br/><br/>
                             <b>Mr. Nanda Kumar </b><br/>
@@ -176,7 +189,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <br/>
                             Email: <b>info@naturextreme.com</b><br/>
                         </p>
-                        <!--<p class="readmore">More</p>-->
+                        <p class="readmore">More</p>-->
                     </div>
                     <div class="back" style="background-image: url('<?php echo base_url('assets/img/LBH10175DsR0249.jpg'); ?>');">
                     </div>
