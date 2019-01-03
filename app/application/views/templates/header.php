@@ -79,8 +79,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <ul class="tile-icons" style="padding: 0">
                     <li style="left: 0px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Facebook.png'); ?>"></span></li>
                     <li style="left: 40px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Twitter.png'); ?>"></span></li>
-                    <li style="right: 40px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Youtube.png'); ?>"></span></li>
-                    <li style="right: 0px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
+                    <li style="left: 80px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Youtube.png'); ?>"></span></li>
+                    <li style="left: 120px;"><span><img class="icon-img" src="<?php echo base_url('assets/img/Instagram.png'); ?>"></span></li>
                 </ul>
             </div>
             <div class="hidden-sm hidden-xs">
