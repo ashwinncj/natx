@@ -119,7 +119,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <script>
             $(document).ready(function () {
-                $('.icon-img').css('top','80vh');  
+                $('.icon-img').css('top','70vh');  
                 //$('.icon-img').css('position','fixed');
             });
         </script>
