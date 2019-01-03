@@ -110,7 +110,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </a>
         </div>
         <div style="background-color: #e4e4e4; height: 35px; width:150px; border-radius: 25px; padding-left: 8px;position: fixed;z-index: 7;right: -15px;bottom: 10px">
-            <a href="https://api.whatsapp.com/send?phone=919845044599">
+            <a href="https://api.whatsapp.com/send?phone=919815791910">
                 <div class="col-xs-3"  style="height:30px; background-image: url('<?php echo base_url('assets/img/whatsapp.png'); ?>'); background-repeat: no-repeat; background-size: contain; margin-top:2px"></div>
                 <div class="col-xs-9" style="height: 30px;padding: 8px">
                     <p>Sanjeet</p>
