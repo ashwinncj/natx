@@ -7,7 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     }
 </style>
 <title>NATX - Dudhwa and Bardia</title>
-<div id="page-parent" style="background-image: url('<?php echo base_url('assets/img/packages/wildlife_dudhwaimage.jpg'); ?>'); background-position:center;background-size:cover;"> 
+<div id="page-parent" style="background-image: url('<?php echo base_url('assets/img/packages/wildlife_bardia.jpg'); ?>'); background-position:center;background-size:cover;"> 
     <!--<div id="page-parent" style="position:relative">-->
     <?php //$this->load->view('topslider'); ?>
     <div id="page-layout" style="padding: 20px">
