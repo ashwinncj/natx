@@ -45,11 +45,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <div class="front" style="background-color:rgba(20,47,48,1)">
                         <p class="title">Dudhwa (India) & Bardia (Nepal)</p>
                         <p class="description">
-                            10 days trip covering Billy's area Dudhwa, Nepal and Lucknow. Wildlife, two countries with border crossing, local cuisine of Lucknow. 
+                            11 days trip covering Billy's area Dudhwa, Nepal and Lucknow. Wildlife, two countries with border crossing, local cuisine of Lucknow. 
                         </p>
                         <p class="readmore">More</p>
                     </div>
-                    <div class="back" style="background-image: url('<?php echo base_url('assets/img/packages/wildlife_dudhwaimage.jpg'); ?>');">
+                    <div class="back" style="background-image: url('<?php echo base_url('assets/img/packages/wildlife_bardia.jpg'); ?>');">
                     </div>
                 </div>
             </a>
