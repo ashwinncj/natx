@@ -58,5 +58,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<li>Oxygen saturation measurement device for any symptoms of shortness of breath. </li>
 		</ul>	
         </div>
+	    <div class="text-center">
+            <a href="<?php echo base_url('wildlife'); ?>">
+                <button class="btn btn-primary">Go Back</button>
+            </a>
+            <a href="<?php echo base_url(); ?>">
+                <button class="btn btn-primary">Home</button>
+            </a>
+        </div>
     </div>
 </div>
