@@ -59,6 +59,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 transition-duration:1000ms;
                 transition-timing-function: ease;
                 transition-delay: 0.8s;
+                -webkit-transition:all 1000ms;
+                -webkit-transition-property: top, width;
+                -webkit-transition-duration:1000ms;
+                -webkit-transition-timing-function: ease;
+                -webkit-transition-delay: 0.8s;
                 z-index: 5;
             }
             .icon-img:hover{
@@ -73,11 +78,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             .rotate:hover .front{
                 z-index: 1;
                 transform: rotate3d(0, 1.5, 0, 180deg);
+                -moz-transform: rotate3d(0, 1.5, 0, 180deg);
                 -webkit-transform: rotate3d(0, 1.5, 0, 180deg);
             }
             .rotate:hover .back{
                 z-index: 2;
                 transform: rotate3d(0, 1.5, 0, 0deg);
+                -moz-transform: rotate3d(0, 1.5, 0, 0deg);
                 -webkit-transform: rotate3d(0, 1.5, 0, 0deg);
             }
             .rotate{
