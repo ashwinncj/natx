@@ -63,7 +63,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-4 tile-parent">
             <a href="http://wulfpro.com" target="blank">
-                <div class="rotate tile">
+                <div class="rotate tile dark">
                     <div class="back" style="background-color:rgba(255,255,255,1)">
                         <p class="title">Shop</p>
                         <p class="description">
