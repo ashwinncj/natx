@@ -71,7 +71,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         </p>
                         <p class="readmore">More</p>
                     </div>
-                    <div class="front" style="background-image: url('<?php echo base_url('assets/img/wulfpro-jpeg.png'); ?>');background-size: contain">
+                    <div class="front" style="background-image: url('<?php echo base_url('assets/img/wulfpro-jpeg-2.png'); ?>');background-size: contain;background-repeat: no-repeat">
                         <p class="title" style="color: black">Shop</p>
                         <p class="readmore" style="color: black">More</p>
                     </div>
