@@ -2,10 +2,10 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <style>
-    
+
 </style>
 <title>NATX</title>
-<!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg');          ?>'); background-position:center;background-size:cover;"> -->
+<!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg');           ?>'); background-position:center;background-size:cover;"> -->
 <div id="page-parent" style="position:relative">
     <?php $this->load->view('topslider'); ?>
     <div id="page-layout" style="">
@@ -104,16 +104,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <p>+91 98157 91910</p>
                             </div>
                         </div>
-<!--                        <p class="description">
-                            <b></b><br/>
-                            <b>Mr. Sanjeet Mangat </b><br/>
-                            +91 98157 91910 <br/><br/>
-                            <b>Mr. Nanda Kumar </b><br/>
-                            +91 98450 44599 <br/>
-                            <br/>
-                            Email: <b>info@naturextreme.com</b><br/>
-                        </p>
-                        <p class="readmore">More</p>-->
                     </div>
                     <div class="back" style="background-image: url('<?php echo base_url('assets/img/LBH10175DsR0249.jpg'); ?>');">
                     </div>
