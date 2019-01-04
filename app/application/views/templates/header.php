@@ -77,22 +77,32 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             }
             .rotate:hover .front{
                 z-index: 1;
-                transform: rotate3d(0, 1.5, 0, 180deg);
-                -moz-transform: rotate3d(0, 1.5, 0, 180deg);
-                -webkit-transform: rotate3d(0, 1.5, 0, 180deg);
+                transform: rotateY(180deg);
+                /*                transform: rotate3d(0, 1, 0, 180deg);
+                                -ms-transform: rotate3d(0, 1, 0, 180deg);
+                                -moz-transform: rotate3d(0, 1, 0, 180deg);
+                                -webkit-transform: rotate3d(0, 1, 0, 180deg);*/
             }
             .rotate:hover .back{
                 z-index: 2;
-                transform: rotate3d(0, 1.5, 0, 0deg);
-                -moz-transform: rotate3d(0, 1.5, 0, 0deg);
-                -webkit-transform: rotate3d(0, 1.5, 0, 0deg);
+                transform: rotateY(0deg);
+                /*                transform: rotate3d(0, 1, 0, 0deg);
+                                -ms-transform: rotate3d(0, 1, 0, 0deg);
+                                -moz-transform: rotate3d(0, 1, 0, 0deg);
+                                -webkit-transform: rotate3d(0, 1, 0, 0deg);*/
             }
             .rotate{
                 transition:all 1s;
+                -moz-transition:all 1s;
+                -ms-transition:all 1s;
+                -webkit-transition:all 1s;
             }
             .front{
                 z-index:2;
                 transition:all 1s;
+                -moz-transition:all 1s;
+                -ms-transition:all 1s;
+                -webkit-transition:all 1s;
                 background-position: center;
                 background-size: cover;
                 position:absolute;
@@ -103,10 +113,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 overflow:hidden;
             }
             .back{
-                z-index:1;
-                transform: rotate3d(0, 0.5, 0, 180deg);
-                /*                transition-delay: 300ms;*/
+/*                z-index:1;*/
+                transform: rotateY(180deg);
+/*                transform: rotate3d(0, 0.5, 0, 180deg);
+                -webkit-transform: rotate3d(0, 0.5, 0, 180deg);
+                -moz-transform: rotate3d(0, 0.5, 0, 180deg);
+                -ms-transform: rotate3d(0, 0.5, 0, 180deg);
+                                transition-delay: 300ms;*/
                 transition-duration:1s;
+                -webkit-transition-duration:1s;
+                -moz-transition-duration:1s;
+                -ms-transition-duration:1s;
                 background-position: center;
                 background-size: cover;
                 position:absolute;
