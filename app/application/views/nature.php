@@ -2,24 +2,26 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <style>
-   
+
 </style>
 <title>NATX</title>
-<!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg');       ?>'); background-position:center;background-size:cover;"> -->
+<!-- <div id="page-parent" style="background-image: url('<?php //echo base_url('assets/img/MGL08175DsR9449.jpg');        ?>'); background-position:center;background-size:cover;"> -->
 <div id="page-parent" style="position:relative">
     <?php $this->load->view('topslider'); ?>
     <div id="page-layout" style="">
         <div class="col-md-4 tile-parent">
             <a href="<?php echo base_url('package/info/summerspitivalley/'); ?>">
                 <div class="rotate tile">
-                    <div class="front" style="background-color:rgba(48,50,49,1)">
+                    <div class="back" style="background-color:rgba(48,50,49,1)">
                         <p class="title">Summer Spiti Valley Expedition</p>
                         <p class="description">
 
                         </p>
                         <p class="readmore">More</p>
                     </div>
-                    <div class="back" style="background-image: url('<?php echo base_url('assets/img/packages/nature_summer_spiti_valley.jpg'); ?>');">
+                    <div class="front" style="background-image: url('<?php echo base_url('assets/img/packages/nature_summer_spiti_valley.jpg'); ?>');">
+                        <p class="title">Summer Spiti Valley Expedition</p>
+                        <p class="readmore">More</p>
                     </div>
                 </div>
             </a>
