@@ -9,7 +9,8 @@ class Diving extends CI_Controller {
     }
 
     public function index() {
-        $data['msg'] = 'Kindy contact us for personalised trips.';
+        $data['msg'] = 'Kindly contact us for personalised trips.';
+        $this->load->view('templates/header');
         $this->load->view('comingsoon', $data);
     }
 

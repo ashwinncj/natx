@@ -79,7 +79,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </a>
         </div>
         <div class="col-md-4 tile-parent">
-            <a href="<?php echo base_url(''); ?>">
+            <a href="<?php echo base_url('comingsoon'); ?>">
                 <div class="rotate tile dark">
                     <div class="back" style="background-color:rgba(229,225,228,1)">
                         <p class="title">Blog & Gallery</p>
