@@ -47,7 +47,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</p>
         </div>
 	    <div class="text-center">
-            <a href="<?php echo base_url('wildlife'); ?>">
+            <a href="<?php echo base_url('nature'); ?>">
                 <button class="btn btn-primary">Go Back</button>
             </a>
             <a href="<?php echo base_url(); ?>">
