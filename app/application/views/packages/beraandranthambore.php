@@ -7,11 +7,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     }
 </style>
 <title>NATX - Bera and Ranthambore</title>
-<div id="page-parent" style="background-image: url('<?php echo base_url('assets/img/packageheader/header_ranthambore.jpg'); ?>'); background-position:center;background-size:cover;"> 
+<div id="page-parent" style="background-image: url('<?php echo base_url('assets/img/packageheader/header_bera2.jpg'); ?>'); background-position:center;background-size:cover;"> 
     <!--<div id="page-parent" style="position:relative">-->
     <?php //$this->load->view('topslider'); ?>
     <div id="page-layout" style="padding: 20px">
-        <div style="background-image: url('<?php echo base_url('assets/img/packageheader/header_bera2.jpg'); ?>'); height: 300px;background-position:center;background-size:cover;"> 
+        <div style="background-image: url('<?php echo base_url('assets/img/packageheader/header_ranthambore.jpg'); ?>'); height: 300px;background-position:center;background-size:cover;"> 
         </div>
         <h1>
             <!--        //Put heading here-->
