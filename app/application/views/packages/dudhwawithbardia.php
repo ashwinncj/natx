@@ -84,5 +84,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 We will check out from the hotel after breakfast to head back home with memories to cherish till the next trip. Flight to Delhi before noon to reach in time for onward journey.We will check out from the hotel after breakfast to head back home with memories to cherish till the next trip. Flight to Delhi before noon to reach in time for onward journey.
             </p>
         </div>
+	    <div class="text-center">
+            <a href="<?php echo base_url('wildlife'); ?>">
+                <button class="btn btn-primary">Go Back</button>
+            </a>
+            <a href="<?php echo base_url(); ?>">
+                <button class="btn btn-primary">Home</button>
+            </a>
+        </div>
     </div>
 </div>
