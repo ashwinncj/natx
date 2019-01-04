@@ -113,13 +113,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 overflow:hidden;
             }
             .back{
-/*                z-index:1;*/
+                /*                z-index:1;*/
                 transform: rotateY(180deg);
-/*                transform: rotate3d(0, 0.5, 0, 180deg);
-                -webkit-transform: rotate3d(0, 0.5, 0, 180deg);
-                -moz-transform: rotate3d(0, 0.5, 0, 180deg);
-                -ms-transform: rotate3d(0, 0.5, 0, 180deg);
-                                transition-delay: 300ms;*/
+                /*                transform: rotate3d(0, 0.5, 0, 180deg);
+                                -webkit-transform: rotate3d(0, 0.5, 0, 180deg);
+                                -moz-transform: rotate3d(0, 0.5, 0, 180deg);
+                                -ms-transform: rotate3d(0, 0.5, 0, 180deg);
+                                                transition-delay: 300ms;*/
                 transition-duration:1s;
                 -webkit-transition-duration:1s;
                 -moz-transition-duration:1s;
@@ -129,6 +129,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 position:absolute;
                 width:95%;
                 height:100%;
+                padding: 20px;
             }
             .tile{
                 margin: 5px;
