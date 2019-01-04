@@ -64,14 +64,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4 tile-parent">
             <a href="http://wulfpro.com" target="blank">
                 <div class="rotate tile">
-                    <div class="back" style="background-color:rgba(50,78,93,1)">
+                    <div class="back" style="background-color:rgba(255,255,255,1)">
                         <p class="title">Shop</p>
                         <p class="description">
                             We are pleased to sell Made in India items at world class quality for a variety of needs. Serious experience and thought has gone in designing these items.     
                         </p>
                         <p class="readmore">More</p>
                     </div>
-                    <div class="front" style="background-image: url('<?php echo base_url('assets/img/wulfpro-jpeg-2.png'); ?>');background-size: contain;background-repeat: no-repeat">
+                    <div class="front" style="background-image: url('<?php echo base_url('assets/img/wulfpro-jpeg-2.png'); ?>');background-size: contain;background-repeat: no-repeat;">
                         <p class="title" style="color: black">Shop</p>
                         <p class="readmore" style="color: black">More</p>
                     </div>
