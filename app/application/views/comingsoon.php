@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <link href="https://fonts.googleapis.com/css?family=Raleway|Roboto|Roboto+Mono" rel="stylesheet">
+<title>NATX - Coming soon</title>
 <div id="page-parent" style="position: relative;">
     <div id="page-layout" style="text-align: center;">
         <p style="font-size:40px;font-family:Raleway;position: relative;top: 50px">
