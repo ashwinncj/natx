@@ -73,10 +73,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             .rotate:hover .front{
                 z-index: 1;
                 transform: rotate3d(0, 1.5, 0, 180deg);
+                -webkit-transform: rotate3d(0, 1.5, 0, 180deg);
             }
             .rotate:hover .back{
                 z-index: 2;
                 transform: rotate3d(0, 1.5, 0, 0deg);
+                -webkit-transform: rotate3d(0, 1.5, 0, 0deg);
             }
             .rotate{
                 transition:all 1s;
