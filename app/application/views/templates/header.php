@@ -84,7 +84,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 -webkit-transform: rotate3d(0, 1, 0, 180deg);*/
             }
             .rotate:hover .back{
-                z-index: 2;
+                z-index: 3;
                 transform: rotateY(0deg);
                 /*                transform: rotate3d(0, 1, 0, 0deg);
                                 -ms-transform: rotate3d(0, 1, 0, 0deg);
@@ -113,7 +113,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 overflow:hidden;
             }
             .back{
-                /*                z-index:1;*/
+                z-index:1;
                 transform: rotateY(180deg);
                 /*                transform: rotate3d(0, 0.5, 0, 180deg);
                                 -webkit-transform: rotate3d(0, 0.5, 0, 180deg);
