@@ -14,10 +14,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             }
             ?>
         </p>
-        <p style="font-size:30px;font-family:Raleway;position: relative;top: 50px">
-            <a href="<?php echo base_url(); ?>">
+<!--        <p style="font-size:30px;font-family:Raleway;position: relative;top: 50px">
+            <a href="<?php //echo base_url(); ?>">
                 <button>Home</button></a>
-        </p>
+        </p>-->
         <a href="<?php echo base_url(); ?>">
 <!--            <div style="text-align: center;background-image: url('<?php echo base_url('assets/img/NATXLogo.png'); ?>'); background-position:center;background-size:500px;height: 70vh;background-repeat:no-repeat">    
             </div>-->
